@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpfigueiro=self.webpackChunkpfigueiro||[]).push([[6856],{231:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/pt-BR/blog/tags/hola","allTagsPath":"/pt-BR/blog/tags","count":1}')}}]);
